@@ -380,7 +380,7 @@ There should be a single service called **hello-cloudbuild** in the list. It h
 
 2. Click on the endpoint for the **hello-cloudbuild** service. You should see "Hello World!". If there is no endpoint, or if you see a load balancer error, you may have to wait a few minutes for the load balancer to be completely initialized. Click **Refresh** to update the page if needed.
 
-[https://cdn.qwiklabs.com/r4XfRZ7CZPMk4Dr8HJ3qHVAZIZDXD%2BwvqiPeA3b5efU%3D](https://cdn.qwiklabs.com/r4XfRZ7CZPMk4Dr8HJ3qHVAZIZDXD%2BwvqiPeA3b5efU%3D)
+https://cdn.qwiklabs.com/r4XfRZ7CZPMk4Dr8HJ3qHVAZIZDXD%2BwvqiPeA3b5efU%3D
 
 3. In Cloud Shell, replace "Hello World" with "Hello Cloud Build", both in the application and in the unit test:
 
